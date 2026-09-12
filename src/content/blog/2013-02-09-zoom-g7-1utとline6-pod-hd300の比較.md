@@ -2,7 +2,7 @@
 title: "ZOOM G7.1utとLINE6 POD HD300の比較"
 description: "さて、昨日のステージは大成功でした リハと本番で半日ぐらいギター弾き続けたことと 機材持ち運び、その後の打ち上げなどで疲れ果て 帰ったら速攻で寝てしまいました そんなライブレポートはまた後日書くとして 昨日の記事 https://blog...."
 pubDate: "2013-02-09"
-heroImage: "https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/05/cat.gif"
+heroImage: "/wp-content/plugins/typepad-emoji-for-tinymce/icons/05/cat.gif"
 tags: ["G7.1ut","PODHD","ギター"]
 categories: ["各種レビュー"]
 slug: "zoom-g7-1utとline6-pod-hd300の比較"
@@ -23,11 +23,11 @@ slug: "zoom-g7-1utとline6-pod-hd300の比較"
 
 その説明を
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/05/cat.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/05/cat.gif)
 
 いきなりその弱点を言ってしまうと、この赤丸部分なんです
 
-![PODHD300の弱点](https://blog.netcafe-guide.com/wp-content/uploads/2013/02/PODHD300panel.png)
+![PODHD300の弱点](/wp-content/uploads/2013/02/PODHD300panel.png)
 
 そう！
 
@@ -273,7 +273,7 @@ POD HDのほうがアンプ生****に近い**気がします
 **なんで違う性質のエフェクターが**
 **同じエフェクト群に入っちゃっているか…**
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/think.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/think.gif)
 
 まだイコライザは、プリアンプのTONEいじれば同じようなものだが
 **コンプレッサーは独立して効かせたいだろ**が！

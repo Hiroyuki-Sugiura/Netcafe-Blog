@@ -54,7 +54,7 @@ Androidの素の電話帳機能はとってもシンプル
 
 ![](http://blogtimes.jp/sys/im.php?b=3825&r=200&i=598)
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/soon.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/soon.gif)
 
 ![](http://blogtimes.jp/sys/im.php?b=3825&r=200&i=599)
 
@@ -62,7 +62,7 @@ Androidの素の電話帳機能はとってもシンプル
 
 ![](http://blogtimes.jp/sys/im.php?b=3825&r=200&i=603)
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/soon.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/soon.gif)
 
 ![](http://blogtimes.jp/sys/im.php?b=3825&r=200&i=604)
 

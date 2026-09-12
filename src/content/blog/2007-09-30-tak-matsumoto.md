@@ -2,7 +2,7 @@
 title: "Tak Matsumoto"
 description: "昨日の打ち込み音だけ先行紹介した曲、正解はこれでした httpa://www.youtube.com/watch?v=F_RytpwofoQ 演奏の出来はおいておくとして、「ああ、これね！」という反応を期待して選んでみました B'zのギター..."
 pubDate: "2007-09-30"
-heroImage: "https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat01.gif"
+heroImage: "/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat01.gif"
 tags: ["ギター","音楽"]
 categories: ["弾いてみた"]
 slug: "tak-matsumoto"
@@ -32,4 +32,4 @@ B'zの曲だと、もちろんハードな曲もいいですが、
 
 ・・・[やっぱ高い](http://pt.afl.rakuten.co.jp/c/000e6af8.e5843757/?url=http%3a%2f%2fsearch.rakuten.co.jp%2fsearch%2fmall%3fv%3d2%26uwd%3d1%26s%3d1%26p%3d1%26sitem%3dgibson%2btak%2bmatsumoto%26st%3dA%26nitem%3d%26g%3d101240%26min%3d200000%26max%3d&scid=af_ich_link_txt)し！
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat01.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat01.gif)

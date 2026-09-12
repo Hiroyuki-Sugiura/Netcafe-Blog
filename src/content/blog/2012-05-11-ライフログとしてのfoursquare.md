@@ -1,8 +1,8 @@
 ---
 title: "ライフログとしてのfoursquare"
-description: "! https://blog.netcafe-guide.com/wp-content/uploads/2012/04/foursquare_64.png https://foursquare.com/ 位置情報のソーシャルサービス fou..."
+description: "! /wp-content/uploads/2012/04/foursquare_64.png https://foursquare.com/ 位置情報のソーシャルサービス fou..."
 pubDate: "2012-05-11"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2012/04/foursquare_64.png"
+heroImage: "/wp-content/uploads/2012/04/foursquare_64.png"
 tags: ["foursquare","提案"]
 categories: ["メールでフォースクエアについて"]
 slug: "ライフログとしてのfoursquare"
@@ -10,7 +10,7 @@ slug: "ライフログとしてのfoursquare"
 
 ### [
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2012/04/foursquare_64.png)
+![](/wp-content/uploads/2012/04/foursquare_64.png)
 
 ](https://foursquare.com/)位置情報のソーシャルサービス foursquareについて
 
@@ -29,7 +29,7 @@ slug: "ライフログとしてのfoursquare"
 
 [
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2012/05/6703c97ccf5d023c56848b12b0519e91-300x191.png)
+![](/wp-content/uploads/2012/05/6703c97ccf5d023c56848b12b0519e91-300x191.png)
 
 ](https://blog.netcafe-guide.com/wp-content/uploads/2012/05/6703c97ccf5d023c56848b12b0519e91.png)（foursquareのcheck-in記録を[Google Calendarに連係](http://komugi.net/archives/2011/11/08182019)して表示させています）
 
@@ -40,7 +40,7 @@ slug: "ライフログとしてのfoursquare"
 
 **同行者には**、メル友でもいるのかこいつ！？と不審がられますが
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif)
 
 いちいちfoursquareの説明を始めるのも面倒なので「記録してるの」ぐらいでごまかしますが
 

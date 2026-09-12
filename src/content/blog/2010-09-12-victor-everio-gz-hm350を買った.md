@@ -2,7 +2,7 @@
 title: "Victor Everio GZ-HM350を買った"
 description: "今まで使っていたビデオカメラは Canon IXY DV http://cweb.canon.jp/pressrelease/2000-07/pr_ixydv.html なる機種で、かれこれ10年ほど使っていました これはこれで、当時として..."
 pubDate: "2010-09-12"
-heroImage: "https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif"
+heroImage: "/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif"
 tags: ["電脳生活"]
 categories: ["各種レビュー"]
 slug: "victor-everio-gz-hm350を買った"
@@ -33,9 +33,9 @@ slug: "victor-everio-gz-hm350を買った"
 
 説明ありがとう電気屋さん！ということでネットで購入したんですが・・・
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/catface.gif)
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2010/09/GZ-HM350.jpg)
+![](/wp-content/uploads/2010/09/GZ-HM350.jpg)
 
 最近の機種は、手にしても本当にコンパクトです
 

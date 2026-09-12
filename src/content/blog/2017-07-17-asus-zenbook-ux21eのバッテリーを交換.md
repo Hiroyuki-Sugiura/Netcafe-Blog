@@ -2,7 +2,7 @@
 title: "ASUS ZENBOOK (UX21E)のバッテリーを交換"
 description: "私がモバイルPCとして利用している ZENBOOK https://blog.netcafe-guide.com/2013/06/16/asus-zenbook%e3%82%92%e8%90%bd%e6%9c%ad%e3%81%97%e3%..."
 pubDate: "2017-07-17"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2017/07/ux21e_screws.jpg"
+heroImage: "/wp-content/uploads/2017/07/ux21e_screws.jpg"
 tags: ["電脳生活"]
 categories: ["日記"]
 slug: "asus-zenbook-ux21eのバッテリーを交換"
@@ -52,7 +52,7 @@ CPUにCore i7を採用しているだけあって
 
 さて、PCの分解！
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/ux21e_screws.jpg)
+![](/wp-content/uploads/2017/07/ux21e_screws.jpg)
 
 UX21Eの裏蓋には、上記丸で囲んだ10箇所にネジがあります
 
@@ -60,7 +60,7 @@ UX21Eの裏蓋には、上記丸で囲んだ10箇所にネジがあります
 
 先端が星形のトルクスドライバーという特殊なドライバーが必要です
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/IMG_20170717_111724.jpg)
+![](/wp-content/uploads/2017/07/IMG_20170717_111724.jpg)
 
 しゃあないから東急ハンズで精密ドライバーセットを買ってきました
 
@@ -74,7 +74,7 @@ UX21Eの裏蓋には、上記丸で囲んだ10箇所にネジがあります
 
 T5ではうまく回らなくなったため、最終的にT6で開け閉めしました
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/IMG_20170717_111324.jpg)
+![](/wp-content/uploads/2017/07/IMG_20170717_111324.jpg)
 
 裏蓋を開けるとこんな感じ
 
@@ -82,7 +82,7 @@ T5ではうまく回らなくなったため、最終的にT6で開け閉めし�
 
 こちらは普通の＋（プラス）ビス5本で留まっています
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/battery_connector.jpg)
+![](/wp-content/uploads/2017/07/battery_connector.jpg)
 
 バッテリーのコネクター（赤四角）ですが特にノッチなどはありません
 
@@ -91,11 +91,11 @@ T5ではうまく回らなくなったため、最終的にT6で開け閉めし�
 
 （最初、コネクターの見た目で判断して写真でいう基板水平下方向にずらすことで外そうとして外れずに苦戦しました）
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/IMG_20170717_112240.jpg)
+![](/wp-content/uploads/2017/07/IMG_20170717_112240.jpg)
 
  
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/07/IMG_20170717_112303.jpg)
+![](/wp-content/uploads/2017/07/IMG_20170717_112303.jpg)
 
 外したバッテリー旧（上）と新品バッテリー（下）です
 

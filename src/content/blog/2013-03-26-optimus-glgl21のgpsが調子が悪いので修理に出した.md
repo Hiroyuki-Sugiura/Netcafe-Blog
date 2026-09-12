@@ -1,8 +1,8 @@
 ---
 title: "optimus G(LGL21)のGPSが調子が悪いので修理に出した"
-description: "結果がこれ ! LGL21修理報告書 https://blog.netcafe-guide.com/wp-content/uploads/2013/03/skitch.png 正直、安心ケータイサポートプラスを使えば、 何も言わずまた翌日着..."
+description: "結果がこれ ! LGL21修理報告書 /wp-content/uploads/2013/03/skitch.png 正直、安心ケータイサポートプラスを使えば、 何も言わずまた翌日着..."
 pubDate: "2013-03-26"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2013/03/skitch.png"
+heroImage: "/wp-content/uploads/2013/03/skitch.png"
 tags: ["au","LGL21","怒り"]
 categories: ["各種レビュー"]
 slug: "optimus-glgl21のgpsが調子が悪いので修理に出した"
@@ -10,7 +10,7 @@ slug: "optimus-glgl21のgpsが調子が悪いので修理に出した"
 
 結果がこれ
 
-![LGL21修理報告書](https://blog.netcafe-guide.com/wp-content/uploads/2013/03/skitch.png)
+![LGL21修理報告書](/wp-content/uploads/2013/03/skitch.png)
 
 正直、安心ケータイサポートプラスを使えば、
 何も言わずまた翌日着で代替機を手に入れることが出来るのですが
@@ -20,7 +20,7 @@ slug: "optimus-glgl21のgpsが調子が悪いので修理に出した"
 結果、上記の通り問題なしということで
 初期化されて点検・清掃のみで戻ってきました
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/crying.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/crying.gif)
 
 初期化されることは事前に分かっていたのでバックアップから戻すことで
 手間だけで問題はないのですが・・・

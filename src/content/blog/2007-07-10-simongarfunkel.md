@@ -37,7 +37,7 @@ slug: "simongarfunkel"
 
 ではまた
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/04/paper.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/04/paper.gif)
 
 httpa://www.youtube.com/watch?v=t5elrYJSEBo
 

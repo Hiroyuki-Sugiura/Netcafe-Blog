@@ -44,7 +44,7 @@ Rock'n' Roooooooooooooooooll!
 
 いえ～い！ろっけんろー（
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/03/beer.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/03/beer.gif)
 
 飲んで良い感じな気分で書いています）
 httpa://www.youtube.com/watch?v=SqPcQIIAIaE

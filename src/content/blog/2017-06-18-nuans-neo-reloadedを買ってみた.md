@@ -2,7 +2,7 @@
 title: "NuAns NEO [Reloaded]を買ってみた"
 description: "twitter以外の日記で久々の更新です 携帯電話を Trinity http://trinity.jp/ 社の NuAns NEO Reloaded https://neo.nuans.jp/reloaded/ にしてみました この機種を..."
 pubDate: "2017-06-18"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182215.jpg"
+heroImage: "/wp-content/uploads/2017/06/IMG_20170617_182215.jpg"
 tags: ["携帯","賞賛","電脳生活"]
 categories: ["各種レビュー"]
 slug: "nuans-neo-reloadedを買ってみた"
@@ -16,7 +16,7 @@ twitter以外の日記で久々の更新です
 
  
 
-![スマートフォン全景](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182215.jpg)
+![スマートフォン全景](/wp-content/uploads/2017/06/IMG_20170617_182215.jpg)
 
 ちなみに壁紙は[IFTTT](https://ifttt.com/)で定期的に500px Editors' Choiceが配信されるようになっているので 自分が選んだ写真ではないです
 
@@ -85,7 +85,7 @@ twitter以外の日記で久々の更新です
 複数のカードを携帯と共に持ち歩くクセから抜けられないので
 FLIPケースを選びました
 
-![ナチュラルウッドケース](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182235.jpg)
+![ナチュラルウッドケース](/wp-content/uploads/2017/06/IMG_20170617_182235.jpg)
 
  **ナチュラルウッドのFLIPケースです
 
@@ -151,7 +151,7 @@ Pokemon GOしているときのバッテリーの減り方が緩くなったの�
 
 - ぶ厚い
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182526.jpg)
+![](/wp-content/uploads/2017/06/IMG_20170617_182526.jpg)
 
    
 本体が11mmで、ケースのFLIP部だと20mmにも達するかという厚さ
@@ -186,7 +186,7 @@ Pokemon GOしているときのバッテリーの減り方が緩くなったの�
 
 - カード収納がFelicaセンサーの真ん前！？
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/img_22.jpg)
+![](/wp-content/uploads/2017/06/img_22.jpg)
 
    
 本体裏にカード収納用のスペースがあるのはいいが…（Trinity社HPより[引用](https://neo.nuans.jp/reloaded/detail/)）

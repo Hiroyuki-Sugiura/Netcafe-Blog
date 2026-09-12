@@ -2,7 +2,7 @@
 title: "25 Best Guitar Riffs"
 description: "最近私が忙しくて全くギターを弾いていないので ネタのギター演奏目当てで当ブログに訪れていただける人…もしいたら申し訳ないｗ 世界には同じようにギター演奏を動画公開している人はたっくさんいて… 今すぐプロになったら！？という猛者もたくさんいる..."
 pubDate: "2010-11-22"
-heroImage: "https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat02.gif"
+heroImage: "/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat02.gif"
 tags: ["ギター","賞賛"]
 categories: ["お気に入り動画"]
 slug: "25-best-guitar-riffs"
@@ -34,6 +34,6 @@ https://www.youtube.com/watch?v=HVfh0UqvOzE**
 
 しかし…バックの**ツルの屏風が気になる
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat02.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/08/sweat02.gif)
 
 **

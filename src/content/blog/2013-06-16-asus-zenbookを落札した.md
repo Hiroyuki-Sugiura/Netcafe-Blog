@@ -2,7 +2,7 @@
 title: "ASUS ZENBOOKを落札した"
 description: "今までモバイルパソコンとして使っていたのは ネットブックの走りとして有名なASUS Eee PC この機種、 - ストレージが、世に出始めたばかりのSSDで、性能劣化が顕著。 交換も不可なモデル。 - ストレージ容量が１６GBしかないので、..."
 pubDate: "2013-06-16"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00150.jpg"
+heroImage: "/wp-content/uploads/2013/06/CAM00150.jpg"
 tags: ["電脳生活"]
 categories: ["各種レビュー"]
 slug: "asus-zenbookを落札した"
@@ -49,7 +49,7 @@ ASUS製のUltrabook
 
 ## ZENBOOK UX21E-KX128
 
-![ZENBOOK UX21E](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00150.jpg)
+![ZENBOOK UX21E](/wp-content/uploads/2013/06/CAM00150.jpg)
 
 薄いです
 
@@ -59,11 +59,11 @@ SSD：128GB
 OS:Windows7
 重量:約1.1kg
 
-![ZENBOOK UX21E画面](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00153.jpg)
+![ZENBOOK UX21E画面](/wp-content/uploads/2013/06/CAM00153.jpg)
 
 これで、カフェで打ち込みもできますわ
 
-![ZENBOOK UX21E収納](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00157.jpg)
+![ZENBOOK UX21E収納](/wp-content/uploads/2013/06/CAM00157.jpg)
 
 収納ケースは、本当に封筒って感じ
 

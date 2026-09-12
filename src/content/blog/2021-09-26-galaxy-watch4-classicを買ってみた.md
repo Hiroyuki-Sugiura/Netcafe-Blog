@@ -2,7 +2,7 @@
 title: "Galaxy Watch4 Classicを買ってみた"
 description: "https://youtu.be/qZQPB8xNgpA 日本では2021年9月22日に発売されたばかりなんですが 予約購入して発売日に入手したので 、購入４日目ですが人柱レビューしてみたいと思います １ 購入額や購入方法など 購入したのは..."
 pubDate: "2021-09-26"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2021/09/watch_photo.png"
+heroImage: "/wp-content/uploads/2021/09/watch_photo.png"
 tags: ["GalaxyWatch4","スマートウォッチ","電脳生活"]
 categories: ["各種レビュー"]
 slug: "galaxy-watch4-classicを買ってみた"
@@ -77,9 +77,9 @@ Oppo Watchだと、サイクリング途中の食事などの休憩時に、**�
 
 [
 
-![Galaxy Watch4 classicの写真](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/watch_photo.png)
+![Galaxy Watch4 classicの写真](/wp-content/uploads/2021/09/watch_photo.png)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/watch_photo.png)
+](/wp-content/uploads/2021/09/watch_photo.png)
 
 そりゃあ、値段なりに高級感はあります
 
@@ -108,7 +108,7 @@ Oppo Watchだと、サイクリング途中の食事などの休憩時に、**�
 
 [
 
-![4時間半、85kmほど自転車トレーニングした後のバッテリー残量スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20211002-175901-485x1024.png)
+![4時間半、85kmほど自転車トレーニングした後のバッテリー残量スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20211002-175901-485x1024.png)
 
 ](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20211002-175901.png)
 
@@ -140,7 +140,7 @@ Galaxy Watch4では、Samsung謹製の[S Health](https://play.google.com/store/a
 
 [
 
-![スマホのS Healthアプリのサイクリングエクササイズ画面キャプチャ](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210923-232407-485x1024.png)
+![スマホのS Healthアプリのサイクリングエクササイズ画面キャプチャ](/wp-content/uploads/2021/09/Screenshot_20210923-232407-485x1024.png)
 
 ](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210923-232407.png)
 
@@ -163,9 +163,9 @@ Fitbitも買収したことですし、早く使いやすい物になっても�
 
 [
 
-![体組成の測定手順](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/体組成の測定手順.png)
+![体組成の測定手順](/wp-content/uploads/2021/09/体組成の測定手順.png)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/体組成の測定手順.png)
+](/wp-content/uploads/2021/09/体組成の測定手順.png)
 
 自分の場合、Galaxy Watch4では概ね25％前後を示す一方、
 オムロン製の足裏電極型の体組成計ではだいたい20％を示します
@@ -214,37 +214,37 @@ Oppo Watchでは、「○○（バス停）からxxへのバスは何時？」�
 
 [
 
-![天気予報トップスクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214305_sysui.jpg)
+![天気予報トップスクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214305_sysui.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214305_sysui.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214305_sysui.jpg) [
 
-![天気予報2ページ目スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214327_weather.jpg)
+![天気予報2ページ目スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214327_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214327_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214327_weather.jpg) [
 
-![天気予報3ページ目スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214332_weather.jpg)
+![天気予報3ページ目スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214332_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214332_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214332_weather.jpg) [
 
-![天気予報4ページ目スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214339_weather.jpg)
+![天気予報4ページ目スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214339_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214339_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214339_weather.jpg) [
 
-![天気予報5ページ目スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214344_weather.jpg)
+![天気予報5ページ目スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214344_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214344_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214344_weather.jpg) [
 
-![天気予報微細埃スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214349_weather.jpg)
+![天気予報微細埃スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214349_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214349_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214349_weather.jpg) [
 
-![天気予報湿度紫外線スクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214400_weather.jpg)
+![天気予報湿度紫外線スクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214400_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214400_weather.jpg) [
+](/wp-content/uploads/2021/09/Screenshot_20210925_214400_weather.jpg) [
 
-![天気予報日の出日の入りスクリーンショット](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214404_weather.jpg)
+![天気予報日の出日の入りスクリーンショット](/wp-content/uploads/2021/09/Screenshot_20210925_214404_weather.jpg)
 
-](https://blog.netcafe-guide.com/wp-content/uploads/2021/09/Screenshot_20210925_214404_weather.jpg)
+](/wp-content/uploads/2021/09/Screenshot_20210925_214404_weather.jpg)
 
 ウェザーニュース提供らしいのでそこそこ信頼がおけそう
 

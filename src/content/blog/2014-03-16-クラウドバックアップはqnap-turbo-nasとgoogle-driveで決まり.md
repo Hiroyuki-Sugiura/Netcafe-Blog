@@ -2,7 +2,7 @@
 title: "クラウドバックアップはQNAP Turbo NASとGoogle Driveで決まり"
 description: "久々にマニアック記事更新 以前にこんな記事を書いていますが > オンラインバックアップはいまだにASUS WebStorage使っています https://blog.netcafe-guide.com/2012/01/31/%e3%82%a..."
 pubDate: "2014-03-16"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2014/03/Online-backup-file-sync-for-pad-PC-Android-and-iPhone-ASUS-WebStorage.png"
+heroImage: "/wp-content/uploads/2014/03/Online-backup-file-sync-for-pad-PC-Android-and-iPhone-ASUS-WebStorage.png"
 tags: ["オンラインバックアップ","賞賛","電脳生活"]
 categories: ["各種レビュー"]
 slug: "クラウドバックアップはqnap-turbo-nasとgoogle-driveで決まり"

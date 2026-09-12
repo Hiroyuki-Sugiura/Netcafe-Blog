@@ -1,14 +1,14 @@
 ---
 title: "optimus G LGL21を買った…が致命的欠陥が！"
-description: "! image https://blog.netcafe-guide.com/wp-content/uploads/2012/12/wpid-20121209_213057.jpg とうとうスマホ持ちになってしまった auのタイトルどおりの..."
+description: "! image /wp-content/uploads/2012/12/wpid-20121209_213057.jpg とうとうスマホ持ちになってしまった auのタイトルどおりの..."
 pubDate: "2012-12-16"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2012/12/wpid-20121209_213057.jpg"
+heroImage: "/wp-content/uploads/2012/12/wpid-20121209_213057.jpg"
 tags: ["au","LGL21","電脳生活"]
 categories: ["各種レビュー"]
 slug: "optimus-g-lgl21を買ったが致命的欠陥が！"
 ---
 
-![image](https://blog.netcafe-guide.com/wp-content/uploads/2012/12/wpid-20121209_213057.jpg)
+![image](/wp-content/uploads/2012/12/wpid-20121209_213057.jpg)
 
 とうとうスマホ持ちになってしまった
 
@@ -54,7 +54,7 @@ LG（メーカー）の標準なのかな？
 
 ってだけなんだけど、以外と使える
 
-![2012-12-14-02-04-21](https://blog.netcafe-guide.com/wp-content/uploads/2012/12/2012-12-14-02-04-21.jpg)
+![2012-12-14-02-04-21](/wp-content/uploads/2012/12/2012-12-14-02-04-21.jpg)
 
 こんな感じで手軽
 
@@ -130,7 +130,7 @@ Eメールも相変わらず自動受信できない事象はみられます
 [続き記事](https://blog.netcafe-guide.com/2013/01/12/%e5%ae%89%e5%bf%83%e3%82%b1%e3%83%bc%e3%82%bf%e3%82%a4%e3%82%b5%e3%83%9d%e3%83%bc%e3%83%88%e3%83%97%e3%83%a9%e3%82%b9%e3%81%ab%e9%9b%bb%e8%a9%b1%e3%81%97%e3%81%9f%e3%82%89%e7%bf%8c%e6%97%a5%e3%81%ab/)書きました！
 代替機に変更したんですが…症状変わらずでした
 
-![](https://blog.netcafe-guide.com/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/shock.gif)
+![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/07/shock.gif)
 
 [2013/03/26追記]
 [修理に出してみた結果](https://blog.netcafe-guide.com/2013/03/26/optimus-glgl21%e3%81%aegps%e3%81%8c%e8%aa%bf%e5%ad%90%e3%81%8c%e6%82%aa%e3%81%84%e3%81%ae%e3%81%a7%e4%bf%ae%e7%90%86%e3%81%ab%e5%87%ba%e3%81%97%e3%81%9f/)を書きました…結果期待しちゃダメです

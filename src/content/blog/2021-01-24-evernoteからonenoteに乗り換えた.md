@@ -2,7 +2,7 @@
 title: "EvernoteからOneNoteに乗り換えた"
 description: "デジタルノートツールは長らくEvernoteを利用していました 買い物リストなどのTo-Do管理、ちょっとした打ち合わせメモ、ブログのネタ、免許証やパスポートの写し、加入している保険の整理、父が亡くなった際の口座の相続方法まで、ありとあらゆ..."
 pubDate: "2021-01-24"
-heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2021/01/E2ON_Hero_Img.png"
+heroImage: "/wp-content/uploads/2021/01/E2ON_Hero_Img.png"
 tags: ["IT","クラウド","提案","電脳生活"]
 categories: ["日記"]
 slug: "evernoteからonenoteに乗り換えた"
@@ -14,7 +14,7 @@ slug: "evernoteからonenoteに乗り換えた"
 
 買い物リストなどのTo-Do管理、ちょっとした打ち合わせメモ、ブログのネタ、免許証やパスポートの写し、加入している保険の整理、父が亡くなった際の口座の相続方法まで、ありとあらゆる情報を保管しています。
 
-![](https://blog.netcafe-guide.com/wp-content/uploads/2021/01/OneNoteのセクション-103x300.png)
+![](/wp-content/uploads/2021/01/OneNoteのセクション-103x300.png)
 
  だいたいこんなカテゴリで整理
 
