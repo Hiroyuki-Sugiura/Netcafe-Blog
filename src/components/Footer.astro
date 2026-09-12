@@ -1,0 +1,18 @@
+---
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+const today = new Date();
+---
+
+<footer class="bg-gray-900 text-gray-400 py-12 mt-20 border-t border-gray-800">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 text-center space-y-4">
+    <p class="text-sm font-medium text-gray-300">
+      {SITE_TITLE}
+    </p>
+    <p class="text-xs text-gray-500">
+      {SITE_DESCRIPTION}
+    </p>
+    <p class="text-xs text-gray-600 pt-4">
+      &copy; {today.getFullYear()} {SITE_TITLE}. All rights reserved.
+    </p>
+  </div>
+</footer>

@@ -1,0 +1,121 @@
+---
+import { SITE_TITLE } from '../consts';
+---
+
+<header class="bg-white/95 backdrop-blur-md border-b border-gray-100 sticky top-0 z-50 transition-all duration-200 shadow-[0_1px_3px_rgba(0,0,0,0.02)]">
+  <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-16">
+      <!-- サイトロゴ & タイトル -->
+      <a href="/" class="flex items-center space-x-2 sm:space-x-2.5 group min-w-0 mr-3 sm:mr-4">
+        <span class="text-xl sm:text-2xl flex-shrink-0 transition-transform group-hover:scale-110">☕</span>
+        <span class="text-sm sm:text-base md:text-xl font-bold text-gray-900 group-hover:text-sky-600 transition-colors truncate">
+          {SITE_TITLE}
+        </span>
+      </a>
+
+      <!-- デスクトップナビゲーション (md以上) -->
+      <nav class="hidden md:flex items-center space-x-7 text-sm font-medium text-gray-600">
+        <a href="/" class="hover:text-sky-600 transition-colors py-1">ホーム</a>
+        <a href="/tags" class="hover:text-sky-600 transition-colors py-1">タグ一覧</a>
+        <a href="/categories" class="hover:text-sky-600 transition-colors py-1">カテゴリ</a>
+        <a href="/rss.xml" class="text-gray-400 hover:text-amber-500 transition-colors p-1 rounded-md" title="RSSフィード" aria-label="RSSフィード">
+          <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
+          </svg>
+        </a>
+      </nav>
+
+      <!-- モバイルメニューボタン (md未満) -->
+      <div class="flex items-center md:hidden">
+        <button
+          id="mobile-menu-button"
+          type="button"
+          class="inline-flex items-center justify-center p-2 rounded-lg text-gray-600 hover:text-gray-900 hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-inset focus:ring-sky-500 transition-colors"
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+          aria-label="メニューを開く"
+        >
+          <!-- ハンバーガーアイコン -->
+          <svg id="menu-open-icon" class="block h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.75" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          </svg>
+          <!-- 閉じるアイコン (×) -->
+          <svg id="menu-close-icon" class="hidden h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.75" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- モバイルメニュードロップダウン (md未満) -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-gray-100 bg-white/98 backdrop-blur-md px-4 pt-3 pb-5 space-y-1.5 shadow-lg">
+    <a
+      href="/"
+      class="block px-3 py-2.5 rounded-lg text-base font-medium text-gray-700 hover:text-sky-600 hover:bg-sky-50 transition-colors"
+    >
+      🏠 ホーム
+    </a>
+    <a
+      href="/tags"
+      class="block px-3 py-2.5 rounded-lg text-base font-medium text-gray-700 hover:text-sky-600 hover:bg-sky-50 transition-colors"
+    >
+      🏷️ タグ一覧
+    </a>
+    <a
+      href="/categories"
+      class="block px-3 py-2.5 rounded-lg text-base font-medium text-gray-700 hover:text-sky-600 hover:bg-sky-50 transition-colors"
+    >
+      📁 カテゴリ
+    </a>
+    <a
+      href="/rss.xml"
+      class="block px-3 py-2.5 rounded-lg text-base font-medium text-amber-600 hover:bg-amber-50 transition-colors flex items-center gap-2"
+    >
+      <svg class="w-4 h-4 fill-current" viewBox="0 0 24 24">
+        <path d="M6.18 15.64a2.18 2.18 0 0 1 2.18 2.18C8.36 19 7.38 20 6.18 20C5 20 4 19 4 17.82a2.18 2.18 0 0 1 2.18-2.18M4 4.44A15.56 15.56 0 0 1 19.56 20h-2.83A12.73 12.73 0 0 0 4 7.27V4.44m0 5.66a9.9 9.9 0 0 1 9.9 9.9h-2.83A7.07 7.07 0 0 0 4 12.93V10.1Z" />
+      </svg>
+      RSSフィード
+    </a>
+  </div>
+</header>
+
+<script>
+  function setupMobileMenu() {
+    const button = document.getElementById('mobile-menu-button');
+    const menu = document.getElementById('mobile-menu');
+    const openIcon = document.getElementById('menu-open-icon');
+    const closeIcon = document.getElementById('menu-close-icon');
+
+    if (!button || !menu || !openIcon || !closeIcon) return;
+
+    // 既存のリスナー重複を防ぐためcloneNodeでリセット
+    const newButton = button.cloneNode(true) as HTMLButtonElement;
+    button.parentNode?.replaceChild(newButton, button);
+
+    const newOpenIcon = document.getElementById('menu-open-icon');
+    const newCloseIcon = document.getElementById('menu-close-icon');
+
+    newButton.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isExpanded = newButton.getAttribute('aria-expanded') === 'true';
+      newButton.setAttribute('aria-expanded', String(!isExpanded));
+      menu.classList.toggle('hidden');
+      newOpenIcon?.classList.toggle('hidden');
+      newCloseIcon?.classList.toggle('hidden');
+    });
+
+    // 画面外クリックで閉じる
+    document.addEventListener('click', (e) => {
+      if (!newButton.contains(e.target as Node) && !menu.contains(e.target as Node) && !menu.classList.contains('hidden')) {
+        newButton.setAttribute('aria-expanded', 'false');
+        menu.classList.add('hidden');
+        newOpenIcon?.classList.remove('hidden');
+        newCloseIcon?.classList.add('hidden');
+      }
+    });
+  }
+
+  setupMobileMenu();
+  document.addEventListener('astro:after-swap', setupMobileMenu);
+</script>

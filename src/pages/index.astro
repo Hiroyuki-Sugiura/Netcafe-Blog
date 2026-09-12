@@ -1,0 +1,83 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import BlogCard from '../components/BlogCard.astro';
+import { getCollection } from 'astro:content';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+  (a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+// 全タグと全カテゴリを集計
+const allTags = Array.from(new Set(posts.flatMap((post) => post.data.tags || [])));
+const allCategories = Array.from(new Set(posts.flatMap((post) => post.data.categories || [])));
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+  <!-- メインヒーロー -->
+  <section class="text-center py-10 sm:py-14 bg-gradient-to-b from-sky-50/60 to-transparent rounded-3xl mb-12 px-4">
+    <h1 class="text-3xl sm:text-4xl lg:text-5xl font-black text-gray-900 tracking-tight mb-4">
+      {SITE_TITLE}
+    </h1>
+    <p class="text-base sm:text-lg text-gray-600 max-w-2xl mx-auto leading-relaxed">
+      {SITE_DESCRIPTION}
+    </p>
+    <div class="mt-6 flex flex-wrap justify-center gap-2">
+      <span class="text-xs font-semibold uppercase tracking-wider text-gray-400 py-1">注目タグ:</span>
+      {allTags.slice(0, 8).map((tag) => (
+        <a
+          href={`/tags/${encodeURIComponent(tag)}`}
+          class="text-xs bg-white text-gray-700 hover:bg-sky-600 hover:text-white px-3 py-1 rounded-full shadow-sm border border-gray-100 transition-colors"
+        >
+          #{tag}
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <!-- カテゴリナビゲーション -->
+  {allCategories.length > 0 && (
+    <div class="flex items-center space-x-2 overflow-x-auto pb-4 mb-8 text-sm no-scrollbar">
+      <span class="text-xs font-bold text-gray-400 uppercase tracking-wider whitespace-nowrap">カテゴリ:</span>
+      <a
+        href="/"
+        class="bg-sky-600 text-white px-3.5 py-1.5 rounded-full whitespace-nowrap font-medium text-xs shadow-sm"
+      >
+        すべて ({posts.length})
+      </a>
+      {allCategories.map((cat) => (
+        <a
+          href={`/categories/${encodeURIComponent(cat)}`}
+          class="bg-white hover:bg-gray-100 text-gray-700 px-3.5 py-1.5 rounded-full whitespace-nowrap font-medium text-xs border border-gray-200 transition-colors"
+        >
+          {cat}
+        </a>
+      ))}
+    </div>
+  )}
+
+  <!-- 記事一覧セクション -->
+  <section>
+    <div class="flex items-center justify-between mb-8 pb-3 border-b border-gray-200">
+      <h2 class="text-2xl font-bold text-gray-900 flex items-center gap-2">
+        <span>📚</span> 最新記事一覧
+      </h2>
+      <span class="text-sm text-gray-500 font-medium">
+        全 {posts.length} 件
+      </span>
+    </div>
+
+    {posts.length === 0 ? (
+      <div class="text-center py-16 bg-white rounded-2xl border border-gray-100">
+        <p class="text-gray-500 mb-2">まだ記事がありません。</p>
+        <p class="text-sm text-gray-400">WordPressからのインポートスクリプトを実行して記事を移行してください。</p>
+      </div>
+    ) : (
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {posts.map((post) => (
+          <BlogCard post={post} />
+        ))}
+      </div>
+    )}
+  </section>
+</BaseLayout>

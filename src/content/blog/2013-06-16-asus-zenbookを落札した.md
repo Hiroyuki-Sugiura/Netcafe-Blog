@@ -1,0 +1,72 @@
+---
+title: "ASUS ZENBOOKを落札した"
+description: "今までモバイルパソコンとして使っていたのは ネットブックの走りとして有名なASUS Eee PC この機種、 - ストレージが、世に出始めたばかりのSSDで、性能劣化が顕著。 交換も不可なモデル。 - ストレージ容量が１６GBしかないので、..."
+pubDate: "2013-06-16"
+heroImage: "https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00150.jpg"
+tags: ["電脳生活"]
+categories: ["各種レビュー"]
+slug: "asus-zenbookを落札した"
+---
+
+今までモバイルパソコンとして使っていたのは
+
+ネットブックの走りとして有名なASUS Eee PC
+
+この機種、
+
+- ストレージが、世に出始めたばかりのSSDで、性能劣化が顕著。
+交換も不可なモデル。
+- ストレージ容量が１６GBしかないので、さすがにできることに限界が。
+
+ということで、モバイルPCはずっと欲しいと思っていました
+
+正直、インターネットを閲覧するだけなら、[タブレット](https://blog.netcafe-guide.com/2012/11/26/nexus7%e3%82%92%e8%b2%b7%e3%81%a3%e3%81%a6%e3%81%bf%e3%81%9f/)だけで十分なんですが
+
+- プログラミングをする場合、**キーボードは必須**
+- eclipseや、ギターのバッキング打ち込みのためにCubaseも立ち上げたいので、
+**そこそこのスペックが欲しい**
+- [以前の記事に書いた](https://blog.netcafe-guide.com/2009/03/12/asus-eee-pc-s101%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc/)けど、モバイルに**求めるのは圧倒的に軽さ！！**
+（できれば1,250kg = ペットボトル2.5本 以下が条件）
+- でも、お金がないのでできれば**5万円以下**で・・・（笑）
+
+軽さでだけ言うなら、NECのLaVie Zとか新しくでる[SONYのVAIO Pro](http://www.sony.jp/vaio/products/VP21/)とかが狙いなんですが
+
+なんせあいつら、新品なら15万円ぐらいしますからね・・・
+
+まあ、狙いは中古しかなく、たまにオークションサイトで探していたんですが
+
+そんなとき見つけたのが今回購入した商品
+
+美品で1,000円からの出品
+
+これはいっとくしかないでしょ！
+
+と、久々の本気オークションでついつい熱くなり
+
+予算オーバーの52,000円程度で落札
+
+ASUS製のUltrabook
+
+## ZENBOOK UX21E-KX128
+
+![ZENBOOK UX21E](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00150.jpg)
+
+薄いです
+
+CPU：インテル® Core™ i7-2677M プロセッサー 超低電圧版
+SSD：128GB
+メモリ:４GB
+OS:Windows7
+重量:約1.1kg
+
+![ZENBOOK UX21E画面](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00153.jpg)
+
+これで、カフェで打ち込みもできますわ
+
+![ZENBOOK UX21E収納](https://blog.netcafe-guide.com/wp-content/uploads/2013/06/CAM00157.jpg)
+
+収納ケースは、本当に封筒って感じ
+
+デザインの好みは分かれそう・・・
+
+とりあえず、満足です

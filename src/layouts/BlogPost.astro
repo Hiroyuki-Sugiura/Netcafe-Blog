@@ -1,0 +1,95 @@
+---
+import BaseLayout from './BaseLayout.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import TableOfContents from '../components/TableOfContents.astro';
+import type { MarkdownHeading } from 'astro';
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  post: CollectionEntry<'blog'>;
+  headings: MarkdownHeading[];
+}
+
+const { post, headings } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, categories, tags } = post.data;
+---
+
+<BaseLayout title={title} description={description} image={heroImage} article={true}>
+  <article class="max-w-4xl mx-auto bg-white rounded-2xl shadow-sm border border-gray-100 p-6 sm:p-10 lg:p-12">
+    <!-- 記事ヘッダー -->
+    <header class="mb-8 pb-8 border-b border-gray-100">
+      <div class="flex flex-wrap items-center gap-2 text-sm text-gray-500 mb-4">
+        <span class="inline-flex items-center text-gray-700">
+          📅 <span class="ml-1"><FormattedDate date={pubDate} /></span>
+        </span>
+        {updatedDate && (
+          <span class="text-xs text-gray-400">
+            (更新: <FormattedDate date={updatedDate} />)
+          </span>
+        )}
+        {categories && categories.length > 0 && (
+          <>
+            <span>•</span>
+            <div class="flex gap-2">
+              {categories.map((cat: string) => (
+                <a href={`/categories/${encodeURIComponent(cat)}`} class="text-sky-600 font-medium hover:underline">
+                  📁 {cat}
+                </a>
+              ))}
+            </div>
+          </>
+        )}
+      </div>
+
+      <h1 class="text-2xl sm:text-3xl lg:text-4xl font-extrabold text-gray-900 leading-tight">
+        {title}
+      </h1>
+
+      {tags && tags.length > 0 && (
+        <div class="flex flex-wrap gap-2 mt-4">
+          {tags.map((tag: string) => (
+            <a
+              href={`/tags/${encodeURIComponent(tag)}`}
+              class="text-xs bg-gray-100 text-gray-600 hover:bg-sky-50 hover:text-sky-600 px-2.5 py-1 rounded-md transition-colors"
+            >
+              #{tag}
+            </a>
+          ))}
+        </div>
+      )}
+    </header>
+
+    <!-- アイキャッチ画像 -->
+    {heroImage && (
+      <div class="mb-8 rounded-xl overflow-hidden shadow-sm">
+        <img src={heroImage} alt={title} class="w-full h-auto object-cover max-h-96" />
+      </div>
+    )}
+
+    <!-- 目次 -->
+    {headings && headings.length > 0 && <TableOfContents headings={headings} />}
+
+    <!-- 記事本文スロット -->
+    <div class="prose-content">
+      <slot />
+    </div>
+
+    <!-- 記事フッター（シェアボタンなど） -->
+    <footer class="mt-12 pt-8 border-t border-gray-100 flex items-center justify-between">
+      <a href="/" class="text-sm font-medium text-sky-600 hover:underline flex items-center gap-1">
+        ← 記事一覧に戻る
+      </a>
+      <div class="flex items-center space-x-3 text-sm text-gray-500">
+        <span>共有:</span>
+        <a
+          href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(title)}&url=${encodeURIComponent(Astro.url.href)}`}
+          target="_blank"
+          rel="noopener noreferrer"
+          class="hover:text-sky-500 transition-colors"
+        >
+          X (Twitter)
+        </a>
+      </div>
+    </footer>
+  </article>
+</BaseLayout>

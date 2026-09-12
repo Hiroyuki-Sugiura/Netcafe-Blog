@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('blog');
+const categories = allPosts.flatMap((post) => post.data.categories || []);
+const catCounts = categories.reduce((acc, cat) => {
+  acc[cat] = (acc[cat] || 0) + 1;
+  return acc;
+}, {} as Record<string, number>);
+
+const sortedCats = Object.entries(catCounts).sort((a, b) => b[1] - a[1]);
+---
+
+<BaseLayout title="カテゴリ一覧">
+  <div class="mb-8 pb-4 border-b border-gray-200">
+    <h1 class="text-3xl font-bold text-gray-900">📁 カテゴリ一覧</h1>
+    <p class="text-sm text-gray-500 mt-1">全 {sortedCats.length} 種類のカテゴリ</p>
+  </div>
+
+  <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    {sortedCats.map(([cat, count]) => (
+      <a
+        href={`/categories/${encodeURIComponent(cat)}`}
+        class="bg-white hover:border-sky-500 hover:shadow-sm p-5 rounded-xl border border-gray-200 flex items-center justify-between group transition-all"
+      >
+        <span class="font-bold text-gray-800 group-hover:text-sky-600 transition-colors">📁 {cat}</span>
+        <span class="text-xs bg-sky-50 text-sky-700 font-semibold px-2.5 py-1 rounded-full">{count} 記事</span>
+      </a>
+    ))}
+  </div>
+</BaseLayout>
