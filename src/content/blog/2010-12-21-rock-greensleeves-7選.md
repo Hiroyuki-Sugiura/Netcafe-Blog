@@ -36,7 +36,18 @@ slug: "rock-greensleeves-7選"
 <iframe src="http://www.youtube.com/embed/videoseries?list=PL5610F6228127877A&hl=ja_JP" frameborder="0" width="560" height="315"></iframe>
 
 でも、一番応援したいのはこの娘！
-https://www.youtube.com/watch?v=VpDPVwBz1Z4
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/VpDPVwBz1Z4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 私のカラオケ使ってくれているし・・・
 
 なんといってもキュートだし

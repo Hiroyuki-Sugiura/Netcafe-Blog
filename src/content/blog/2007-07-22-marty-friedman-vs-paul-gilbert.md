@@ -19,5 +19,16 @@ slug: "marty-friedman-vs-paul-gilbert"
 ポール・ギルバートは、「LOVE LOVE愛してる」への出演でおなじみの、（私のイメージでは）メロディアスな早弾きが得意なギタリスト
 
 そんな２人が、日本のテレビで競演していたとは。しかも、ギターでせんだみつおゲームって・・・すげーよあんたたち
-https://www.youtube.com/watch?v=UgfPesqOJ1c
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/UgfPesqOJ1c"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 

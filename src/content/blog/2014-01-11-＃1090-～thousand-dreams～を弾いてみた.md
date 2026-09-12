@@ -38,5 +38,16 @@ Youtubeは賢いです！
 
 AV男優のようになった私をご覧ください！（笑）
 
-https://www.youtube.com/watch?v=Fa97M3EusS8
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/Fa97M3EusS8"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 

@@ -36,7 +36,18 @@ T-SQUAREの曲で、昔は*Knight's Song*というタイトルでした
 
 ギター以外をCubaseLEで打ち込みして弾いてみたのがこちら
 
-https://www.youtube.com/watch?v=GTbr536zjpQ
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/GTbr536zjpQ"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 **二人分のソロを適当で一気に弾いたら**やはり最後に**失速しました**
 二人でBattle風に掛け合えば面白くなるのかな！？
 

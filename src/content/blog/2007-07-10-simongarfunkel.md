@@ -39,5 +39,16 @@ slug: "simongarfunkel"
 
 ![](/wp-content/plugins/typepad-emoji-for-tinymce/icons/04/paper.gif)
 
-httpa://www.youtube.com/watch?v=t5elrYJSEBo
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/t5elrYJSEBo"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 

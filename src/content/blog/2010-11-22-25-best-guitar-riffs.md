@@ -30,7 +30,18 @@ slug: "25-best-guitar-riffs"
 ****私も弾いたことあるのは半分以下ですが…
 
 ギターやっていて、**「なんか弾いて！」って言われたとき**こういうのたくさん知っていると**有効ですよね
-https://www.youtube.com/watch?v=HVfh0UqvOzE**
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/HVfh0UqvOzE"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 
 しかし…バックの**ツルの屏風が気になる
 

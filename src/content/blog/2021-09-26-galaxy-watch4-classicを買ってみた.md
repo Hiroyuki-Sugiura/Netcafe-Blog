@@ -8,7 +8,18 @@ categories: ["各種レビュー"]
 slug: "galaxy-watch4-classicを買ってみた"
 ---
 
-https://youtu.be/qZQPB8xNgpA
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/qZQPB8xNgpA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 
 日本では2021年9月22日に発売されたばかりなんですが
 

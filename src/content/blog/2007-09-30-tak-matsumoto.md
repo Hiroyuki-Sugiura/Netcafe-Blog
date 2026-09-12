@@ -9,7 +9,18 @@ slug: "tak-matsumoto"
 ---
 
 昨日の打ち込み音だけ先行紹介した曲、正解はこれでした
-httpa://www.youtube.com/watch?v=F_RytpwofoQ
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/F_RytpwofoQ"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 
 演奏の出来はおいておくとして、「ああ、これね！」という反応を期待して選んでみました
 

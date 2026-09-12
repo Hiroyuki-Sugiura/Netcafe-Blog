@@ -93,6 +93,23 @@ function htmlToMarkdown(html) {
   // 連続空行の正規化
   text = text.replace(/\n{3,}/g, '\n\n');
 
+  // YouTubeリンクの埋め込み変換
+  text = text.replace(/<object[^>]*>[\s\S]*?youtube\.com\/v\/([a-zA-Z0-9_-]{11})[\s\S]*?<\/object>/gi, (_, id) => {
+    return `\n\n<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md"><iframe class="w-full h-full" src="https://www.youtube-nocookie.com/embed/${id}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe></div>\n\n`;
+  });
+
+  const lines = text.split('\n');
+  const processedLines = lines.map((line) => {
+    const trimmed = line.trim();
+    const match = trimmed.match(/^(?:https?|httpa):\/\/(?:www\.|jp\.)?(?:youtube\.com\/(?:watch\?(?:.*?&)?v=|embed\/|v\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})(?:[^\s]*)?$/i) ||
+                  trimmed.match(/^\[.*?\]\((?:https?|httpa):\/\/(?:www\.|jp\.)?(?:youtube\.com\/(?:watch\?(?:.*?&)?v=|embed\/|v\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})(?:[^\s\)]*)?\)$/i);
+    if (match) {
+      return `<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md"><iframe class="w-full h-full" src="https://www.youtube-nocookie.com/embed/${match[1]}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" loading="lazy" allowfullscreen></iframe></div>`;
+    }
+    return line;
+  });
+  text = processedLines.join('\n');
+
   return text.trim();
 }
 

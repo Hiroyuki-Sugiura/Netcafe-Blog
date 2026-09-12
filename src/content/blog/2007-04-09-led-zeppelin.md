@@ -35,4 +35,15 @@ slug: "led-zeppelin"
 ギター以外のbackingはやはりインターネットで拾ったものです。
 
 本当は曲通しで、ボーカル含めて聞かないと、良さは分かりません。ごめんよZEPPELIN。
-httpa://www.youtube.com/watch?v=i1dzTtzLUZ4
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/i1dzTtzLUZ4"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>

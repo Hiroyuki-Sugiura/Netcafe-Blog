@@ -31,7 +31,18 @@ slug: "highway-starを弾いてみる"
 そういえばこれもソロはツインだ…しょうがない、練習してみよう
 
 バッキングはネット上にあるのを拾って**両方のリードを弾いてみた**
-https://youtu.be/WPuH40uoXrk
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/WPuH40uoXrk"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 ・・・最後になんだか1拍ずれたけど、それも愛嬌で(´・ω・`)
 
 それよりもドラム、これ叩いたら倒れるんじゃないか？

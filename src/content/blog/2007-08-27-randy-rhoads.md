@@ -29,4 +29,15 @@ slug: "randy-rhoads"
 やっぱりへたくそだったんでエフェクターの音でごまかしておいたんだ
 インターネットで拾ったバッキングの出来が良かったから
 さらにごまかせたよ　えへっ獵
-http://www.youtube.com/watch?v=10m9XGhsWxY
+<div class="aspect-video my-6 rounded-xl overflow-hidden shadow-md">
+  <iframe
+    class="w-full h-full"
+    src="https://www.youtube-nocookie.com/embed/10m9XGhsWxY"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerpolicy="strict-origin-when-cross-origin"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
