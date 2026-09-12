@@ -66,4 +66,4 @@ slug: "ライフログとしてのfoursquare"
  
 
 ってな感じで、便利ツールとして捉えると面白いと思います
-[adinserter block="1"]
+

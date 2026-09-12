@@ -41,4 +41,3 @@ slug: "simongarfunkel"
 
 httpa://www.youtube.com/watch?v=t5elrYJSEBo
 
-[adinserter block="1"]

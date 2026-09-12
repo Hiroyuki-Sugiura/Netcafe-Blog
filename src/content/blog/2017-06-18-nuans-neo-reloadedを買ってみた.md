@@ -10,7 +10,7 @@ slug: "nuans-neo-reloadedを買ってみた"
 
 twitter以外の日記で久々の更新です
 
-携帯電話を[Trinity](http://trinity.jp/)社の[NuAns NEO [Reloaded]](https://neo.nuans.jp/reloaded/)にしてみました
+携帯電話を[Trinity](http://trinity.jp/)社の[NuAns NEO Reloaded]($1)にしてみました
 
 この機種をレビューしたいと思います
 
@@ -85,11 +85,9 @@ twitter以外の日記で久々の更新です
 複数のカードを携帯と共に持ち歩くクセから抜けられないので
 FLIPケースを選びました
 
-[caption id="attachment_5136" align="aligncenter" width="409"]
-
 ![ナチュラルウッドケース](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182235.jpg)
 
- **ナチュラルウッドのFLIPケースです[/caption]
+ **ナチュラルウッドのFLIPケースです
 
  
 
@@ -153,12 +151,10 @@ Pokemon GOしているときのバッテリーの減り方が緩くなったの�
 
 - ぶ厚い
 
-[caption id="attachment_5137" align="aligncenter" width="640"]
-
 ![](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/IMG_20170617_182526.jpg)
 
    
-本体が11mmで、ケースのFLIP部だと20mmにも達するかという厚さ[/caption]
+本体が11mmで、ケースのFLIP部だと20mmにも達するかという厚さ
 
  
 
@@ -190,12 +186,10 @@ Pokemon GOしているときのバッテリーの減り方が緩くなったの�
 
 - カード収納がFelicaセンサーの真ん前！？
 
-[caption id="attachment_5140" align="aligncenter" width="400"]
-
 ![](https://blog.netcafe-guide.com/wp-content/uploads/2017/06/img_22.jpg)
 
    
-本体裏にカード収納用のスペースがあるのはいいが…（Trinity社HPより[引用](https://neo.nuans.jp/reloaded/detail/)）[/caption]
+本体裏にカード収納用のスペースがあるのはいいが…（Trinity社HPより[引用](https://neo.nuans.jp/reloaded/detail/)）
 
 本体がぶ厚いのも、カードポケットなる遊び心！？を設けてあるからってのもあるでしょう
 

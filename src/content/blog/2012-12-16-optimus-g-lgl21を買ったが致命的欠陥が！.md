@@ -135,4 +135,3 @@ Eメールも相変わらず自動受信できない事象はみられます
 [2013/03/26追記]
 [修理に出してみた結果](https://blog.netcafe-guide.com/2013/03/26/optimus-glgl21%e3%81%aegps%e3%81%8c%e8%aa%bf%e5%ad%90%e3%81%8c%e6%82%aa%e3%81%84%e3%81%ae%e3%81%a7%e4%bf%ae%e7%90%86%e3%81%ab%e5%87%ba%e3%81%97%e3%81%9f/)を書きました…結果期待しちゃダメです
 
-[adinserter block="1"]

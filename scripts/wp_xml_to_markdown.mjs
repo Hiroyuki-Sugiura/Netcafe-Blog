@@ -11,6 +11,15 @@ function htmlToMarkdown(html) {
   // WordPressのブロックコメントを除去
   text = text.replace(/<!--\s*\/?wp:.*?-->/g, '');
 
+  // WordPressのショートコード・無効なプラグインタグを除去・変換
+  text = text.replace(/\[\/?(?:adinserter|slideshow_deploy|gallery|contact-form(?:-7)?|bzb_[a-zA-Z0-9_]+|su_[a-zA-Z0-9_]+|table|smartslider3)(?:\s+[^\]\n]*)?\]/gi, '');
+  text = text.replace(/\[caption(?:\s+[^\]\n]*)?\]/gi, '');
+  text = text.replace(/\[\/caption\]/gi, '');
+  text = text.replace(/\[audio\s+mp3=["']([^"']+)["']\s*\](?:\[\/audio\])?/gi, '\n\n<audio controls src="$1" class="my-4 w-full"></audio>\n\n');
+  text = text.replace(/\[\/audio\]/gi, '');
+  text = text.replace(/\[video(?:\s+[^\]\n]*?)?mp4=["']([^"']+)["'](?:\s+[^\]\n]*?)?\](?:\[\/video\])?/gi, '\n\n<video controls src="$1" class="my-4 max-w-full rounded-lg"></video>\n\n');
+  text = text.replace(/\[\/video\]/gi, '');
+
   // 改行コード統一
   text = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 

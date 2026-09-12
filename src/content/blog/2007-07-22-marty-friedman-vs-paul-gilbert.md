@@ -21,4 +21,3 @@ slug: "marty-friedman-vs-paul-gilbert"
 そんな２人が、日本のテレビで競演していたとは。しかも、ギターでせんだみつおゲームって・・・すげーよあんたたち
 https://www.youtube.com/watch?v=UgfPesqOJ1c
 
-[adinserter block="1"]

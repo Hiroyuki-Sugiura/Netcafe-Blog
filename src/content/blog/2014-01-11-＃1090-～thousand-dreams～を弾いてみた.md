@@ -40,4 +40,3 @@ AV男優のようになった私をご覧ください！（笑）
 
 https://www.youtube.com/watch?v=Fa97M3EusS8
 
-[adinserter block="1"]

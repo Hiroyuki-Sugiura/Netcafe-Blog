@@ -44,4 +44,3 @@ https://www.youtube.com/watch?v=GTbr536zjpQ
 
 ![PODHD300で作ったLEAD音](https://blog.netcafe-guide.com/wp-content/uploads/2013/01/WS000006.jpg)
 
-[adinserter block="1"]
